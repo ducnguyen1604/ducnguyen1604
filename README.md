@@ -11,7 +11,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/DuyNguyenPhuong/count.svg" />
+  <img src="https://profile-counter.glitch.me/ducnguyen1604/count.svg" />
 </p>
 
 
