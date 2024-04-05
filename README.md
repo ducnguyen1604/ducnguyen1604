@@ -60,8 +60,8 @@
 
 
 <p float="row">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=DuyNguyenPhuong&show_icons=true&theme=synthwave" width = 49.5%/>
- <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=DuyNguyenPhuong&theme=synthwave" width = 49.5% height = 100%/>
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=ducnguyen1604&show_icons=true&theme=synthwave" width = 49.5%/>
+ <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=ducnguyen1604&theme=synthwave" width = 49.5% height = 100%/>
 </p>
 
 <!-- 
