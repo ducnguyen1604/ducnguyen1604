@@ -58,12 +58,12 @@
 <!-- ![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuyNguyenPhuong&show_icons=true&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com/?user=DuyNguyenPhuong&theme=tokyonight&disable_animations=false) -->
 
-
+<!--
 <p float="row">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=ducnguyen1604&show_icons=true&theme=synthwave" width = 49.5%/>
  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=ducnguyen1604&theme=synthwave" width = 49.5% height = 100%/>
 </p>
-
+-->
 <!-- 
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
 -->
