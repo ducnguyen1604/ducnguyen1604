@@ -3,7 +3,7 @@
 ## I'm an Electrical and Electronics Engineering Student and a Programming Lover!
 
 
-- 🧑🏻‍💻 I’m interested in Machine Learning and Software Development, but open to learning anything 😊
+- 🧑🏻‍💻 I’m interested in Machine Learning and Software Development (prefer React Native Mobile App), but open to learning anything 😊
 - ☁️ I spent my last internship at **Panasonics** as a **R&D Engineer Intern** 
 - 😊 I have participated in Deep Learning Week and IdeaJams Hackathons
 
